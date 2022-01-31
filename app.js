@@ -124,4 +124,4 @@ pagename= "Home";
 
 
 
-app.listen("3000",function(){console.log("on 3k");});
+app.listen(process.env.PORT || "3000",function(){console.log("on 3k");});

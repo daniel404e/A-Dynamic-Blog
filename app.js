@@ -5,7 +5,7 @@ var lodash = require('lodash');
 
 const homestartcont = "Do you feel insecure, anxious, and doubtful about your writing? Does it ever seem like you have more adversity in your life than other people do? As if everyone around you is having an easier time of things than you are? You begin to feel sorry for yourself and think, “Why does this stuff always happen to ME? We all seem to be getting more self-obsessed by the day. Turn on your TV or open a web browser, and narcissism hits you smack in the face — everything screams  ME! ME! ME!  Well Dont worry anymore you have come to the right place where its all about YOU and Technology :).Enjoy -Daniel!";
 const aboutcontent = "Data is too often published in a way that’s hard to understand, check and build upon – reinforcing the low valuation it gets in society. Here is how we’re trying to break out of this bad equilibrium";
-const contactcont="Just Google Worlds richest person in 15 years :).   "
+const contactcont="Just Google Number 1 on Forbes list in 15 years :).   "
  
 var pagename =  "";
 

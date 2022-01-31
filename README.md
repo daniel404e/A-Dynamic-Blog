@@ -1,5 +1,7 @@
 # A-Dynamic-Blog
-Blog-Like-A-Frog is a user friendly blog made using js and ajs
+Blog-Like-A-Frog is a user friendly blog made using js and ejs
+
+
 Dynamically add posts and view them .   
 
 hosted live @  https://dynamic-blog-server-6.herokuapp.com/
